@@ -1,3 +1,3 @@
 # apnacollage-demo
-This is my first git repository. <be>
+This is my first git repository. <br>
 Author - Harshi Bhavsar
